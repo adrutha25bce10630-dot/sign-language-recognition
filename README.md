@@ -51,7 +51,7 @@ Saved trained model.
 # Installation
 1. Clone the repository
 
-   *git clone https://github.com/yourusername/sign-language-recognition.git*
+   *git clone https://github.com/adrutha25bce10630-dot/sign-language-recognition.git*
    *cd sign-language-recognition*
 3. Install required libraries
 
