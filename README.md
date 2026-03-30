@@ -52,7 +52,9 @@ Saved trained model.
 1. Clone the repository
 
    *git clone https://github.com/adrutha25bce10630-dot/sign-language-recognition.git*
+
    *cd sign-language-recognition*
+   
 3. Install required libraries
 
    *pip install tensorflow opencv-python numpy*
@@ -71,12 +73,15 @@ This will train the model and save it as:
 
 # Running Real-Time Sign Recognition
 After training the model, start the webcam recognition system:
+
 *python predict_camera.py*
+
 A webcam window will open.
 Steps:
 1. Place your hand inside the green box.
 2. Show a sign gesture.
 3. The predicted letter will appear above the box with a confidence score.
+
 Press ESC to exit the program.
 
 # How the System Works
